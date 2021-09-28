@@ -1,0 +1,38 @@
+.body{
+    Margin:0
+    font-size: 14px;
+    font-family: 'Poppins'
+    font-weight: 300;
+
+
+.topnav{
+    width: 100%;
+    height: 1011px;
+    background: hex:#505050;
+    opacity: 1;
+    position: relative;
+    top: 0px;
+    left: 0px;
+    overflow: hidden;
+   Float: right;
+
+.topnav a:hover {
+    background-color: #ffffff;
+    color: black;
+
+.topnav a.active {
+        background-color: #04AA6D;
+        color: white;
+}
+
+}.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+
+
+}
